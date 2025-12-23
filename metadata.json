@@ -1,0 +1,7 @@
+{
+  "name": "雾天车牌识别专家系统",
+  "description": "基于 MATLAB 算法设计的雾天干扰下车牌识别高性能管理系统，集成暗原色先验 (DCP) 去雾分析与基准测试功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
